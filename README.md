@@ -1,4 +1,4 @@
-![logo]([https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg](https://i.gifer.com/Ry6p.mp4))
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMtVPgJ_YF9mR0D683T-k-9Po7G1NE-faFdA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Vrushali Nikam</h1>
 <h3 align="center">I am 2nd year student pursuing Computer Science and Engineering with a specialization in Artificial Intelligence at DKTE Kolhapur</h3>
 
