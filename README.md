@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vrushali nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushali nikam" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/vrushalinik5dt3/" target="blank"><img align="center" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebcatalog.io%2Fen%2Fapps%2Fgeeksforgeeks%2F&psig=AOvVaw27Y02F6Fr_XX-AWSoa346p&ust=1727794118902000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCm0ev06ogDFQAAAAAdAAAAABAc" alt="@vrushalinikam091" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vrushalinik5dt3/" target="blank"><img align="center" src="file:///C:/Users/Vrushali/Downloads/icons8-geeksforgeeks.svg" alt="@vrushalinikam091" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
